@@ -1,0 +1,19 @@
+.img-thumbnail img{
+    width:100%;
+}
+
+.img-thumbnail{
+    padding:0;
+}
+
+#caption{
+    padding:9px;
+}
+
+.card{
+    padding:15px 0;
+}
+
+.del-form{
+    display: inline;
+}
